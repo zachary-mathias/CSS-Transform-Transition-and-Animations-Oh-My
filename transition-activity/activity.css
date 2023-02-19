@@ -1,1 +1,7 @@
-
+button{
+    transition: 2s;
+    border: none;
+}
+button:hover{
+    color: white;
+}
